@@ -1,6 +1,6 @@
-# startup_namer
+# Startup Namer
 
-My first app with flutter tutorial.
+My first app with Flutter, tutorial [Flutter.io](http://Flutter.io/).
 
 ## Getting Started
 
