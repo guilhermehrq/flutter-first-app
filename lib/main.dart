@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         // Retorna um app com md
         title: 'Welcome to the Jungle',
+        theme: new ThemeData.dark(),
         home: RandomWords());
   }
 }
